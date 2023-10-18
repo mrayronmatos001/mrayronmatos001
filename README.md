@@ -1,5 +1,7 @@
-# 👾 Hello!
-# My name's Ayron and I'm a Junior Front-end developer
+<h1>
+  <p>👾 Hello!</p>
+  <p>My name's Ayron and I'm a Junior Front-end developer</p>
+</h1>
 <img width="850" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/74b26c7b-3d7a-4479-abc9-f4947175c142.gif?ClientID=vimeo-core-prod&Date=1697594232&Signature=47f60003a2ffd1d7f1a911dfee71663138431b19">
 <div margin="50">
   <a href="https://github.com/mrayronmatos001">
