@@ -2,7 +2,7 @@
   <p>👾 Hello!</p>
   <p>My name's Ayron and I'm a Junior Front-end developer</p>
 </h1>
-<img width="850" src="https://videoapi-muybridge.vimeocdn.com/animated-thumbnails/image/74b26c7b-3d7a-4479-abc9-f4947175c142.gif?ClientID=vimeo-core-prod&Date=1697594232&Signature=47f60003a2ffd1d7f1a911dfee71663138431b19">
+<img height="300" src="https://i.imgur.com/ZvCGws8.jpg">
 <div margin="50">
   <a href="https://github.com/mrayronmatos001">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrayronmatos001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
