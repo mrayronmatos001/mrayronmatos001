@@ -2,7 +2,7 @@
   <p>👾 Hello!</p>
   <p>My name's Ayron and I'm a Junior Front-end developer</p>
 </h1>
-<img height="300" src="https://i.imgur.com/ZvCGws8.jpg">
+<img height="300" src="https://i.imgur.com/lMvoX1y.png">
 <div margin="50">
   <a href="https://github.com/mrayronmatos001">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrayronmatos001&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
