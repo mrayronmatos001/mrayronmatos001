@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+BE+WELCOME;I'm+27+years+old;I+am+from+Parnamirim,+RN;I+study+analysis+and+systems+development+at+UFRN+:%29)](https://git.io/typing-svg)
 <div align="center" margin="50">
   <a href="https://github.com/mrayronmatos001">
     <img src="https://github.com/mrayronmatos001/mrayronmatos001/blob/main/illustration_header.png?raw=true" alt="Illustration Header" />
