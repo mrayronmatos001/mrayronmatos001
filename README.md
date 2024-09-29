@@ -1,11 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=999&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ffffff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+BE+WELCOME+:\)\!;My+name+is+Ayron+Matos;I'm+27+years+old;I'm+from+Brazil-RN;I+study+analysis+and+systems+development+at;Universidade+Federal+do+Rio+Grande+do+Norte)](https://git.io/typing-svg)
-<div align="center" margin="50">
-  <a href="https://github.com/mrayronmatos001">    
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayronmatos001&layout=compact&theme=dark&lang_count=16"/>
-  </a>
-</div>
 
 <div align="center">  
   <h1>Social Media</h1>
@@ -25,11 +20,15 @@
   
 </div>
 <div align="center">
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
-  <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />          
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=grey">
+  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B">
+  <img alt="Static Badge" src="https://img.shields.io/badge/shellscript-green?style=for-the-badge&logo=bash">
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java">    
+  <br/>
+  <br/>
+  <a href="https://github.com/mrayronmatos001">    
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrayronmatos001&layout=compact&theme=dark&lang_count=16"/>
+  </a>
 </div>
-<br/>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=999&height=120&section=footer"/>
