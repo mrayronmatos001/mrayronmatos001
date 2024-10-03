@@ -23,7 +23,8 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-gold?style=for-the-badge&logo=javascript&logoColor=grey">
   <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B">
   <img alt="Static Badge" src="https://img.shields.io/badge/shellscript-green?style=for-the-badge&logo=bash">
-  <img alt="Static Badge" src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java">    
+  <img alt="Static Badge" src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java">
+  <img alt="Static Badge" src="https://img.shields.io/badge/git-8B0000?style=for-the-badge&logo=git">
   <br/>
   <br/>
   <a href="https://github.com/mrayronmatos001">    
