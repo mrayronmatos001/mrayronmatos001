@@ -10,8 +10,8 @@
   <a href="https://www.linkedin.com/in/ayronmatos/" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto:ayron.matos.077@ufrn.edu.br" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  <a href="https://mail.google.com/mail/?view=cm&to=ayron.matos.077@ufrn.edu.br" target="_blank">
+    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
