@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=999&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+BE+WELCOME+:\)\!;My+name+is+Ayron+Matos;I'm+27+years+old;I'm+from+Brazil-RN;I+study+analysis+and+systems+development+at;Universidade+Federal+do+Rio+Grande+do+Norte)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cccccc&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+BE+WELCOME+:\)\!;My+name+is+Ayron+Matos;I'm+28+years+old;I'm+from+Brazil-RN;I+study+analysis+and+systems+development+at;Universidade+Federal+do+Rio+Grande+do+Norte)](https://git.io/typing-svg)
 
 <div align="center">  
   <h1>Social Media</h1>
