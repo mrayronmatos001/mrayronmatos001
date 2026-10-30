@@ -1,19 +1,28 @@
-<h1>HELLO! BE WELCOME !!</h1>
-<h1>My name is Ayron Matos, I'm 29 years old. I'm from Brazil-RN and I study Analysis and Systems Development at Univeridade Federal do Rio Grande do Norte.</h1>
-
-<div align="center">  
-  <a href="https://www.linkedin.com/in/ayronmatos/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=ayron.matos.077@ufrn.edu.br" target="_blank">
-    <img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
 <div align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/typescript-3178c6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B">
-  <img alt="Static Badge" src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/java-red?style=for-the-badge&logo=java">
-  <br/>
-  <br/>
+
+<img src="assets/ufrn.png" alt="UFRN" height="90"/>
+
+# Hello! Welcome! 👋
+
+### My name is Ayron Matos, I'm 29 years old. I'm from Rio Grande do Norte, Brazil, and I study Systems Analysis and Development at Universidade Federal do Rio Grande do Norte.
+
+---
+
+<a href="SEU_LINK_DO_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:SEU_EMAIL@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+### 💻 Technologies
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Shell Script" width="55" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="55" height="55"/>&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="55" height="55"/>
+
 </div>
