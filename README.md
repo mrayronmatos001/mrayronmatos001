@@ -2,7 +2,7 @@
 
 <img src="ufrn.png" alt="UFRN" height="90"/>
 
-# Hello! Welcome! 👋
+# Hello! Welcome!
 
 ### My name is Ayron Matos, I'm 29 years old. I'm from Rio Grande do Norte, Brazil, and I study Systems Analysis and Development at Universidade Federal do Rio Grande do Norte.
 
