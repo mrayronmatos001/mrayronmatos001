@@ -8,11 +8,11 @@
 
 ---
 
-<a href="SEU_LINK_DO_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:SEU_EMAIL@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ayronmatos" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45"/>
+</a>&nbsp;&nbsp;
+<a href="mailto:mrayronmatos01@gmail.com">
+  <img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="45" height="45"/>
 </a>
 
 ### 💻 Technologies
