@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/ufrn.png" alt="UFRN" height="90"/>
+<img src="ufrn.png" alt="UFRN" height="90"/>
 
 # Hello! Welcome! 👋
 
